@@ -1,0 +1,11 @@
+$abc: 20px;
+$theme-color: #b70000;
+
+.page-title{
+  margin-top: $abc;
+  margin-bottom: $abc;
+  color: $theme-color;
+}
+input[type=seacrh]{
+  box-shadow: none;
+}
