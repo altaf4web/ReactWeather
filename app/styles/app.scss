@@ -1,6 +1,9 @@
 $abc: 20px;
 $theme-color: #b70000;
-
+$paragraph-color: #8e8e8e;
+p{
+  color: $paragraph-color;
+}
 .page-title{
   margin-top: $abc;
   margin-bottom: $abc;
